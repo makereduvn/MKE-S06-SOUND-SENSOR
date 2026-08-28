@@ -2,11 +2,11 @@
 
 ## Giới thiệu
 
-MKE-S06 Sound Sensor là cảm biến âm thanh sử dụng electret microphone để thu nhận âm thanh trong môi trường. Cảm biến chuyển đổi sự thay đổi của âm thanh thành tín hiệu điện áp Analog, giúp các hệ thống vi điều khiển đọc và xử lý dữ liệu theo mức tín hiệu âm thanh thực tế, thay vì chỉ nhận trạng thái bật/tắt (Digital) như nhiều loại cảm biến âm thanh phổ biến trên thị trường.
+**MKE-S06 Sound Sensor** là cảm biến âm thanh sử dụng **electret microphone** để thu nhận âm thanh trong môi trường. Cảm biến chuyển đổi sự thay đổi của âm thanh thành tín hiệu điện áp Analog, giúp các hệ thống vi điều khiển đọc và xử lý dữ liệu theo mức tín hiệu âm thanh thực tế, thay vì chỉ nhận trạng thái bật/tắt (Digital) như nhiều loại cảm biến âm thanh phổ biến trên thị trường.
 
 Sản phẩm phù hợp cho nhiều ứng dụng như: đo và giám sát mức âm thanh, hệ thống cảnh báo bằng âm thanh, robot tương tác, thiết bị IoT và các dự án STEM. Mạch được thiết kế tối ưu nhằm tăng độ ổn định tín hiệu và khả năng chống nhiễu, đảm bảo tín hiệu đầu ra ổn định trong quá trình học tập, nghiên cứu và phát triển các ứng dụng thực tế.
 
-Cảm biến MKE-S06 Sound Sensor hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình sử dụng.
+Cảm biến **MKE-S06 Sound Sensor** hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình sử dụng.
 
 ## Nguyên lý hoạt động
 
